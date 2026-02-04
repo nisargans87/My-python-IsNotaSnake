@@ -1,5 +1,6 @@
 // Use any editor to run 
 //  simple if statement demonstration 
+import.java.util.Scanner;
 class Main {
     public static void main(String[] args) {
         int rat_population = 24;
@@ -9,3 +10,11 @@ class Main {
 }
   }
 // code ends here 
+
+// User given input for simple if 
+import java.util.Scanner ;
+class rat_population {
+    public static void min(string
+
+
+
