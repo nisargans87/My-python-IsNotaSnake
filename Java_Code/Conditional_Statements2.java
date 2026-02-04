@@ -14,7 +14,7 @@ class Main {
 // User given input for simple if 
 import java.util.Scanner ;
 class rat_population {
-    public static void main(string[] args){
+    public static void main(String[] args){
     Scanner src = new Scanner(System.in);
         System.out.println("Enter the expected  population of the rats :");
         int population = src.nextInt();
