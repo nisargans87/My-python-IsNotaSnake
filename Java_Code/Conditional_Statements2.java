@@ -1,7 +1,7 @@
-// Use any editor to run 
+// Use any editor to run but in text editor file name and class name matters 
 //  simple if statement demonstration 
 import.java.util.Scanner;
-class Main {
+class population {
     public static void main(String[] args) {
         int rat_population = 24;
         if(rat_population >= 20){
