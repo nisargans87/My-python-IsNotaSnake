@@ -28,7 +28,7 @@ print(array3)
 print(array3[2]) #Computer Science 
 
 
-#array creation using 
+#array creation using im
 
 
 
