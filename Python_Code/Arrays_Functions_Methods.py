@@ -22,6 +22,10 @@ print("From two arrays:" , array[2:3] ,array1[0:3])
 # statements ends here 
 # "Arrays can be created using tuples and lists but not with sets ". Find out the reasons . 
 # This program is used to creation of an arrays using lists and tuples and also case study about sets 
+# arrays can store different values 
+array3=["Nisarga" , 21 ,"Computer Science" , 9.26 , True ]
+print(array3)
+print(array3[2]) #Computer Science 
 
 
 
