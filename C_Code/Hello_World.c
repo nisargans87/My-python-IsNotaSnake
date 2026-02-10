@@ -1,4 +1,4 @@
-// Sample Program to print "HELLO ! World " using printf to display the text in the terminal 
+// Sample Program to print "HELLO ! World " using printf to display the text in the console . 
 // Programming Structure is as follows 
 
 #include <stdio.h>
