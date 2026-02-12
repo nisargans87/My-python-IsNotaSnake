@@ -1,7 +1,5 @@
 // Program to display string text to the console
-// FirstMethod.cs - Project Name 
 using System;
-// System is the library in C#
 namespace FirstProgram 
 {
 public class FirstProgram {
