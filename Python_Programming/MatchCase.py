@@ -1,4 +1,4 @@
-''' Match Case demonstration ( python3.10 )
+''' Match Case demonstration ( python 3.10 )
  Program consisting of Match Case , which checks exact match between the entered email, password with already set email and password respectively '''
 
 enter_email=str(input("Enter your registered email id --  "))
