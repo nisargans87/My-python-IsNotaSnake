@@ -11,6 +11,7 @@ print(D)
 E = ("Nisarga" , 46 , "BCA" , 12+7j)
 print(E)
 print(type(A),type(B),type(C),type(D),type(E))
+
 # Sets elements/items demonstration 
 # Run code to observe outputs 
 Q = {'a','e','i','o','u'}
@@ -26,6 +27,7 @@ print(T)
 S = {None}
 print(S)
 print(type(S),type(T),type(W))
+
 # Lists elements/items demonstration 
 # Run code to observe outputs 
 J = [ 12,34,56]
@@ -38,15 +40,3 @@ G = ["why" , "what" , "how" , "when" ]
 print(G)
 print(type(O))
 print(type(G))
-
-
-
-
-
-     
-
-
-
-
-
-
