@@ -28,9 +28,11 @@ num4=13.5
 echo $num2 $num3 $num4
 echo $num2,$num3,$num4
 echo $num2+$num3+$num4
+
+# Example - 2 
 string1="My name is "
 string2="Nisarga"
-final_name = $string1$string2
+final_name=$string1$string2
 echo $final_name 
 # $string1+$string2 , string1,string2 - For this cases we will encounter different formats  of output 
 
