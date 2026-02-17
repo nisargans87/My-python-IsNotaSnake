@@ -1,4 +1,6 @@
 # Shell Script to print sum of assigned values to variables 
+# Errors - arithmetic syntax error 
+
 #!/bin/bash
 # Assign values
 num1=25
@@ -8,15 +10,45 @@ sum=$((num1 + num2))
 # Print result
 echo "Sum is: $sum"
 
-
-# Shell Script to print sum of user given  values 
+# example - 2 
+# Mathematical operations by taking user input
 #!/bin/bash
-# Take input from user
-echo "Enter first number:"
+# Addition 
+echo "Enter first number"
 read num1
-echo "Enter second number:"
+echo "Enter second number"
 read num2
-# Addition
-sum=$((num1 + num2))
-# Display result
-echo "Sum is: $sum"
+add=$((num1+num2))
+echo "The sum is" $add
+
+# Subtraction 
+sub=$((num1-num2))
+echo "The difference is " $sub
+
+# Multiplication 
+pro=$((num1*num2))
+echo "The product is" $pro
+
+# Division 
+case - 1 
+div=$((num1/num2))
+echo "The division is " $div
+# returns remainder 
+# case - 2
+frac=$((num1%num2))
+echo $frac
+# returns quotient 
+
+# Power / Exponent 
+pow=$((num1**num2))
+echo $pow 
+
+# 
+
+
+
+
+
+
+
+
