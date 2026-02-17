@@ -43,12 +43,3 @@ echo $frac
 pow=$((num1**num2))
 echo $pow 
 
-# 
-
-
-
-
-
-
-
-
